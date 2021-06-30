@@ -18,5 +18,6 @@ Eu acho = falta de confiança
 
 Avaliação do curso
 +Aúdio
+- Nome do curso é i.e mas as aulas são sobre comunicação
 
 
